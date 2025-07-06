@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner/stargazers">
-    <img src="https://img.shields.io/github/stars/BSakura-Miku/clean-jpg-cleaner?style=social" alt="GitHub stars">
+  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner_Python_Version/stargazers">
+    <img src="https://img.shields.io/github/stars/BSakura-Miku/clean-jpg-cleaner_Python_Version?style=social" alt="GitHub stars">
   </a>
-  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/BSakura-Miku/clean-jpg-cleaner" alt="License">
+  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner_Python_Version/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/BSakura-Miku/clean-jpg-cleaner_Python_Version" alt="License">
   </a>
   <img src="https://img.shields.io/badge/language-shell-green.svg" alt="Language">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
