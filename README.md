@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner/stargazers">
+    <img src="https://img.shields.io/github/stars/BSakura-Miku/clean-jpg-cleaner?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/BSakura-Miku/clean-jpg-cleaner" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/language-shell-green.svg" alt="Language">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
+</p>
+
+---
 # 🧹 clean-jpg-cleaner (Python version)
 
 一个 **跨平台** 的命令行工具，用于自动清理重复的 `.jpg` 或 `.jpeg` 文件（如果有相同主文件存在，如 `.cr2` / `.nef` 等）。支持 dry-run 模拟、废纸篓删除、多线程加速、日志记录等功能。
