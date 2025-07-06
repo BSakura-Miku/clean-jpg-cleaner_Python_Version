@@ -5,9 +5,13 @@
   <a href="https://github.com/BSakura-Miku/clean-jpg-cleaner_Python_Version/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/BSakura-Miku/clean-jpg-cleaner_Python_Version" alt="License">
   </a>
-  <img src="https://img.shields.io/badge/language-shell-green.svg" alt="Language">
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/feature-dry--run-blue" alt="Dry Run Support">
+  <img src="https://img.shields.io/badge/delete-send2trash-lightgrey" alt="Delete Mode">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Project Status">
 </p>
+
+---
 
 ---
 # 🧹 clean-jpg-cleaner (Python version)
